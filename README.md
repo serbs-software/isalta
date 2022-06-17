@@ -5,6 +5,5 @@ This repository contains GPLv3 licensed opensource sourcecode for software examp
 
 ![Screenshot](./isalta.png)
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
-
-![alt text](https://github.com/serbs-software/isalta/blob/main/isalta.png?raw=true)
+The word "isalta" is a word from Tagalog language (Phillipino) and has a definition of
+isalta (isinasalta, isinalta, isasalta) v., inf. 1. bring upstairs; 2. put something on an elevated place
